@@ -41,22 +41,17 @@
 
 ---
 
-## 📘 作者英文新书 · [Designing AI Agents](https://www.manning.com/books/designing-ai-agents)（Manning Publications）
+## 📘 作者英文新书 · [*Designing AI Agents*](https://hubs.la/Q04hCsH10)（Manning）
 
 <div align="center">
 
-<a href="https://www.manning.com/books/designing-ai-agents"><img src="91-Pictures/manning-designing-ai-agents.png" alt="Designing AI Agents — Manning" width="320"/></a>
-
-<br/>
-
-<a href="https://www.manning.com/books/designing-ai-agents"><img src="https://img.shields.io/badge/📘_新书-Designing_AI_Agents-d4380d?style=for-the-badge&labelColor=2d3748" alt="Designing AI Agents"/></a>
-<a href="https://www.manning.com/books/designing-ai-agents"><img src="https://img.shields.io/badge/Manning-MEAP_已开放-7c3aed?style=for-the-badge" alt="MEAP"/></a>
+<a href="https://hubs.la/Q04hCsH10"><img src="91-Pictures/manning-designing-ai-agents.png" alt="Designing AI Agents — Manning" width="320"/></a>
 
 </div>
 
-> **Jia Huang** · Manning Publications · MEAP 已开放 · ISBN 9781633433632
+> [*Designing AI Agents*](https://hubs.la/Q04hCsH10) —— 生产级 AI Agent 设计模式的工程参考。
 >
-> 双轴框架（7 认知功能 × 6 执行拓扑）· 27 个命名 agent 设计模式 · 4 个真实领域案例
+> 双轴框架（7 认知功能 × 6 执行拓扑）· 27 个 agent 设计模式 · 4 个真实领域案例。
 >
 > 配套代码：[huangjia2019/designing-ai-agents](https://github.com/huangjia2019/designing-ai-agents) · [huangjia2019/agent-design-patterns](https://github.com/huangjia2019/agent-design-patterns) · 配套论文：[arXiv:2605.13850](https://arxiv.org/abs/2605.13850)
 
