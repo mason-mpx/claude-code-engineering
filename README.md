@@ -41,6 +41,27 @@
 
 ---
 
+## 📘 作者英文新书 · [Designing AI Agents](https://www.manning.com/books/designing-ai-agents)（Manning Publications）
+
+<div align="center">
+
+<a href="https://www.manning.com/books/designing-ai-agents"><img src="91-Pictures/manning-designing-ai-agents.png" alt="Designing AI Agents — Manning" width="320"/></a>
+
+<br/>
+
+<a href="https://www.manning.com/books/designing-ai-agents"><img src="https://img.shields.io/badge/📘_新书-Designing_AI_Agents-d4380d?style=for-the-badge&labelColor=2d3748" alt="Designing AI Agents"/></a>
+<a href="https://www.manning.com/books/designing-ai-agents"><img src="https://img.shields.io/badge/Manning-MEAP_已开放-7c3aed?style=for-the-badge" alt="MEAP"/></a>
+
+</div>
+
+> **Jia Huang** · Manning Publications · MEAP 已开放 · ISBN 9781633433632
+>
+> 双轴框架（7 认知功能 × 6 执行拓扑）· 27 个命名 agent 设计模式 · 4 个真实领域案例
+>
+> 配套代码：[huangjia2019/designing-ai-agents](https://github.com/huangjia2019/designing-ai-agents) · [huangjia2019/agent-design-patterns](https://github.com/huangjia2019/agent-design-patterns) · 配套论文：[arXiv:2605.13850](https://arxiv.org/abs/2605.13850)
+
+---
+
 <p align="center">
   <a href="https://time.geekbang.org/column/intro/101113501"><img src="https://img.shields.io/badge/平台-极客时间-00b4ab?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6Ii8+PC9zdmc+" alt="极客时间"/></a>
   <a href="https://time.geekbang.org/column/intro/101113501"><img src="https://img.shields.io/badge/2026-首发专栏-ff6b35?style=for-the-badge" alt="2026首发"/></a>
