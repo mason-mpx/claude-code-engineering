@@ -111,4 +111,18 @@ Claude Code 本身在 2025–2026 高速迭代，部分 API、字段名、配置
 
 ---
 
+### 第 10 次印刷补充勘误（2026-07 复核）
+
+> 2026-07 对照最新官方文档与英文版编辑校样再次核对后新增/确认的条目。
+
+**第 8 章 · 授人以渔（Agent SDK）· 补充**
+
+| 严重等级 | 位置 | 错误 | 修正 |
+|:--:|:--|:--|:--|
+| 🟡 Medium | §8.2 / §8.3 消息类型段 | 正文说消息流"包含五种类型"，但只列出四种（system/init、assistant、user、result），数目对不上 | 一是把"五种"改为"四种核心类型"；二是当前 `claude-agent-sdk` 的消息 union 实际有 6+ 种（除上述四种外还有 `StreamEvent`、`RateLimitEvent`），如需精确可写"四种核心消息类型，此外还有流式（StreamEvent）、限流（RateLimitEvent）等事件" |
+
+**沿用说明**：§5.10.1 Hook 环境变量表（含 `CLAUDE_FILE_PATH` 等 4 个不存在的变量）、§8.2–8.10 的 SDK API（`isinstance` / `input_schema` / `ClaudeAgentOptions` 字段）、§7.4 GitHub Actions 等条目，已在上方"第 1、2 次印刷勘误"中列出，经 2026-07 复核**仍然适用**，一并在第 10 次印刷改正。
+
+---
+
 如果你在书中发现其他问题，欢迎到 [Issues](https://github.com/huangjia2019/claude-code-engineering/issues) 提出。每条经核实的勘误都会更新到此表，并在新版印刷时同步修订。
